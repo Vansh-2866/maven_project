@@ -1,6 +1,6 @@
 name: Java Maven Build
 
--on:
+on:
 	push:
 		branches:["main"]
 	pull_request:
