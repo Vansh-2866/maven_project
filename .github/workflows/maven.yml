@@ -21,8 +21,4 @@ jobs:
           cache: "maven"
 
       - name: Build with Maven
-<<<<<<< HEAD
         run: mvn clean package
-=======
-        run: mvn clean package
->>>>>>> 3b3c10afb476cb39b182179bd445eab3c121ef22
